@@ -6,7 +6,9 @@ Roll: 2007085 , 2007088 , 2007089
 This project is an iOS app developed using *Swift*, with Firebase integration. The app includes functionalities such as user signup and a list view to display data.
 
 
-====================================================######## [ 2007089 ]   #######
+=============================================######## [ 2007089 ]  #######
+
+
 ![Firebase_Connection](https://github.com/Fiona-jet/FirebaseAssignment/blob/main/ss3.webp)
 ![Firebase_Connection](https://github.com/Fiona-jet/FirebaseAssignment/blob/main/ss4.webp)
 ![Firebase_Connection](https://github.com/Fiona-jet/FirebaseAssignment/blob/main/ss1.webp)
@@ -26,7 +28,8 @@ Signup: The SignupPage enables users to create an account using their email and 
 
 
 
-===============================================================####### [ 2007085 ] 
+=======================================================####### [ 2007085 ]  #######
+
 
 ![LoginView]
 <img src="https://github.com/Fiona-jet/FirebaseAssignment/blob/main/Screenshot%202024-12-07%20111819.png" alt="Responsive Image" width="50%">
@@ -50,7 +53,8 @@ Bottom Section: A red "Sign up" button and a prompt to log in for existing users
 
 
 
-=============================================-============================####### [ 2007088 ] ####
+===========================================================####### [ 2007088 ] ####
+
 
 ![ListView]
 <img src="https://github.com/Fiona-jet/FirebaseAssignment/blob/main/Screenshot%202024-12-07%20111627.png" alt="Responsive Image" width="50%">
