@@ -49,7 +49,9 @@ Bottom Section: A red "Sign up" button and a prompt to log in for existing users
 
 =============================================-============================####### [ 2007088 ] ####
 
-![ListView](https://github.com/Fiona-jet/FirebaseAssignment/blob/main/Screenshot%202024-12-07%20111627.png)
+![ListView]
+<img src="https://github.com/Fiona-jet/FirebaseAssignment/blob/main/Screenshot%202024-12-07%20111627.png" alt="Responsive Image" width="50%">
+
 
 
 ## Key Features:
