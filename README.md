@@ -5,7 +5,7 @@ This project is an iOS app developed using *Swift*, with Firebase integration. T
 
 ====================================================######## [ 2007089 ]   #######
 
-![Firebase_Connection]([https://github.com/Fiona-jet/FirebaseAssignment/blob/main/ss1.webp]
+![Firebase_Connection](https://github.com/Fiona-jet/FirebaseAssignment/blob/main/ss1.webp)
 ![Firebase_Connection]([image_url](https://github.com/Fiona-jet/FirebaseAssignment/blob/main/ss2.webp))
 ![Firebase_Connection]([image_url](https://github.com/Fiona-jet/FirebaseAssignment/blob/main/ss3.webp))
 ![Firebase_Connection]([image_url](https://github.com/Fiona-jet/FirebaseAssignment/blob/main/ss4.webp))
