@@ -1,7 +1,5 @@
 ## Author :
-Roll:2007085
-Roll:2007088
-Roll:2007089
+Roll: 2007085 , 2007088 , 2007089
 
 
 # iOS App with Firebase Integration
