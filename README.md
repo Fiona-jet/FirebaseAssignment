@@ -4,12 +4,10 @@ This project is an iOS app developed using *Swift*, with Firebase integration. T
 
 
 ====================================================######## [ 2007089 ]   #######
-
-![Firebase_Connection](https://github.com/Fiona-jet/FirebaseAssignment/blob/main/ss1.webp)
-![Firebase_Connection](https://github.com/Fiona-jet/FirebaseAssignment/blob/main/ss2.webp)
 ![Firebase_Connection](https://github.com/Fiona-jet/FirebaseAssignment/blob/main/ss3.webp)
 ![Firebase_Connection](https://github.com/Fiona-jet/FirebaseAssignment/blob/main/ss4.webp)
-
+![Firebase_Connection](https://github.com/Fiona-jet/FirebaseAssignment/blob/main/ss1.webp)
+![Firebase_Connection](https://github.com/Fiona-jet/FirebaseAssignment/blob/main/ss2.webp)
 
 ## Prerequisites
 
@@ -27,8 +25,8 @@ Signup: The SignupPage enables users to create an account using their email and 
 
 ===============================================================####### [ 2007085 ] 
 
-![LoginView]([image_url](https://github.com/Fiona-jet/FirebaseAssignment/blob/main/Screenshot%202024-12-07%20111819.png
-))
+![LoginView](https://github.com/Fiona-jet/FirebaseAssignment/blob/main/Screenshot%202024-12-07%20111819.png
+)
 
 ## Features
 Google OAuth Integration:
@@ -51,7 +49,7 @@ Bottom Section: A red "Sign up" button and a prompt to log in for existing users
 
 =============================================-============================####### [ 2007088 ] ####
 
-![ListView]([image_url](https://github.com/Fiona-jet/FirebaseAssignment/blob/main/Screenshot%202024-12-07%20111627.png))
+![ListView](https://github.com/Fiona-jet/FirebaseAssignment/blob/main/Screenshot%202024-12-07%20111627.png)
 
 
 ## Key Features:
