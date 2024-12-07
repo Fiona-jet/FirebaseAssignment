@@ -25,8 +25,8 @@ Signup: The SignupPage enables users to create an account using their email and 
 
 ===============================================================####### [ 2007085 ] 
 
-![LoginView](https://github.com/Fiona-jet/FirebaseAssignment/blob/main/Screenshot%202024-12-07%20111819.png
-)
+![LoginView]
+<img src="https://github.com/Fiona-jet/FirebaseAssignment/blob/main/Screenshot%202024-12-07%20111819.png" alt="Responsive Image" width="50%">
 
 ## Features
 Google OAuth Integration:
