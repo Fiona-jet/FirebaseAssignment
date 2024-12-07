@@ -1,5 +1,10 @@
-# iOS App with Firebase Integration
+## Author :
+Roll:2007085
+Roll:2007088
+Roll:2007089
 
+
+# iOS App with Firebase Integration
 This project is an iOS app developed using *Swift*, with Firebase integration. The app includes functionalities such as user signup and a list view to display data.
 
 
