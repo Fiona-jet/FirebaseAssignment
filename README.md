@@ -41,10 +41,10 @@ Middle Section: Black background with fields for email and password.
 Bottom Section: A red "Sign up" button and a prompt to log in for existing users.
 
 
-==============================================================-============================####### [ 2007088 ] ####
 
-## Description
-This project features a mobile application designed to manage and list different breeds of dogs. The interface is simple, user-friendly, and visually appealing, making it easy for users to interact with the application.
+
+=============================================-============================####### [ 2007088 ] ####
+
 
 ## Key Features:
 List Management: The application allows users to create and maintain a list of dog breeds.
@@ -59,6 +59,9 @@ Modern Design: The app features a light gray background with black text, ensurin
 Title: The title "Dogs" is prominently displayed at the top of the screen in bold text.
 List Items: The list of dog breeds is displayed below the title, each on a separate line.
 Add Button: A plus icon is located in the top right corner for adding new list items.
+
+
+
 
 
 
