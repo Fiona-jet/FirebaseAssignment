@@ -2,16 +2,6 @@
 
 This project is an iOS app developed using *Swift*, with Firebase integration. The app includes functionalities such as user signup and a list view to display data.
 
-## Features
-
-1. *User Signup*:
-   - Users can create an account using their email and password.
-   - Passwords are securely stored using Firebase Authentication.
-
-2. *List View*:
-   - Displays a list of items retrieved from Firebase Realtime Database or Firestore.
-   - Items update dynamically with database changes.
-
 
 ================================================================================================######## [ 2007089 ]   #######
 
@@ -42,11 +32,9 @@ This project is an iOS app developed using **Swift**, with Firebase integration.
 The app includes functionalities such as user signup and a list view to display data.
 
 
-==============================================================-============================####### [ 2007085 ] ####
+===============================================================================####### [ 2007085 ] ####
 
-## LOGIN SETUP
-Overview
-This code implements a simple SwiftUI view for a login screen that allows users to sign in with Google OAuth. It features a button for triggering Google OAuth authentication and displays an error message in case of any issues during the authentication process.
+
 
 ## Features
 Google OAuth Integration:
