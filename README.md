@@ -3,7 +3,7 @@
 This project is an iOS app developed using *Swift*, with Firebase integration. The app includes functionalities such as user signup and a list view to display data.
 
 
-================================================================================================######## [ 2007089 ]   #######
+====================================================######## [ 2007089 ]   #######
 
 
 ## Prerequisites
@@ -14,25 +14,13 @@ Before running the app, ensure you have the following:
 - A Firebase account.
 - Swift programming knowledge.
 
-
-## Setup Instructions
-
-### 1
 Firebase Integration
 Firebase Authentication
 Signup: The SignupPage enables users to create an account using their email and password.
 
-Here's a complete README.md file for your iOS app:
-
-markdown
-Copy code
-# iOS App with Firebase Integration
-
-This project is an iOS app developed using **Swift**, with Firebase integration.
-The app includes functionalities such as user signup and a list view to display data.
 
 
-===============================================================================####### [ 2007085 ] ####
+===============================================================####### [ 2007085 ] ####
 
 
 
